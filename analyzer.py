@@ -23,9 +23,15 @@ pobrancyh zostalo {stats["opinion_count"]} opini
 Dla {stats["pros_count"]} opini podana zostala lista zalet produktu
 a dla {stats["cons_count"]} opini podana zaostala lista wad.
 Srednia ocena produktu wynosi {stats["average_score"]}""")
-
+print("---------------")
 print(opinions)
 
 stars = opinions.score.value_counts().reindex(list(np.arange(0,5.5,0.5)), fill_value=0)
 stars.plot.bar()
+pit.show()
+
+recommendation_counts = opinions.recommendation.value_counts(dropna=False)
+recommendation_counts.plot.pie(autopct='%1.1f%%', startangle=90)
+pit.axis('equal')
+pit.legend(title="Rekomendacja")
 pit.show()

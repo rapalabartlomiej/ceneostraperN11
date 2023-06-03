@@ -1,0 +1,185 @@
+[
+    {
+        "opinion_id": "13351049",
+        "author": "m...y",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2020-11-10 07:26:06",
+        "purchase_date": "2020-10-08 21:36:57",
+        "likes": "3",
+        "dislikes": "0",
+        "content": "Fantastyczny produkt, bardzo dobre wykonanie jazda na niej jeszcze lepsza",
+        "cons": [],
+        "pros": [
+            "extra dojazdy do pracy",
+            "fajny wygląd że napatrzeć się nie można",
+            "jest łatwa w obsłudze",
+            "nieźle z górki i na równym zasuwa",
+            "przyciąga uwagę",
+            "stabilna konstrukcja",
+            "wygląd"
+        ]
+    },
+    {
+        "opinion_id": "13063346",
+        "author": "1...a",
+        "recommendation": "Polecam",
+        "score": "4/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2020-09-09 12:35:22",
+        "purchase_date": "2020-09-07 11:49:35",
+        "likes": "1",
+        "dislikes": "0",
+        "content": "Wydaję się jakościowo dobra",
+        "cons": [],
+        "pros": []
+    },
+    {
+        "opinion_id": "13681046",
+        "author": "b...w",
+        "recommendation": "Polecam",
+        "score": "4,5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2020-12-30 13:43:22",
+        "purchase_date": "2020-12-11 11:36:35",
+        "likes": "2",
+        "dislikes": "8",
+        "content": "Bardzo dobra jakość wykonania. Niestety jest to model podstawowy i silniczek dość słaby. Ważę 100kg - hulajnoga nigdy nie rozpędza się do deklarowanych 25kmh.",
+        "cons": [],
+        "pros": [
+            "extra dojazdy do pracy",
+            "wygląd"
+        ]
+    },
+    {
+        "opinion_id": "14436421",
+        "author": "m...7",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2021-05-11 07:11:58",
+        "purchase_date": "2021-03-26 17:30:48",
+        "likes": "0",
+        "dislikes": "0",
+        "content": "Solidnie wykonana,  kilka trybów jazdy, niezłe osiągi. Jak za takie pieniądze to warto.",
+        "cons": [],
+        "pros": [
+            "extra dojazdy do pracy",
+            "nieźle z górki i na równym zasuwa",
+            "przyciąga uwagę",
+            "wygląd"
+        ]
+    },
+    {
+        "opinion_id": "14280742",
+        "author": "s...5",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2021-04-13 16:39:41",
+        "purchase_date": "2021-04-06 10:56:22",
+        "likes": "1",
+        "dislikes": "1",
+        "content": "Ciężki, wydaje się solidny niewiele mogę napisać gdyż to prezent komunijny",
+        "cons": [],
+        "pros": []
+    },
+    {
+        "opinion_id": "13334572",
+        "author": "f...g",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2020-11-06 10:35:41",
+        "purchase_date": "2020-11-03 11:26:48",
+        "likes": "0",
+        "dislikes": "0",
+        "content": "Fajnie wykonana, prosta w obsłudze hulajnoga dla dzieci i młodzieży",
+        "cons": [],
+        "pros": [
+            "extra dojazdy do pracy",
+            "jest łatwa w obsłudze",
+            "porządny produkt",
+            "stabilna konstrukcja",
+            "wygląd"
+        ]
+    },
+    {
+        "opinion_id": "14274935",
+        "author": "k...i",
+        "recommendation": "Polecam",
+        "score": "4,5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2021-04-12 16:53:41",
+        "purchase_date": "2021-04-06 17:31:54",
+        "likes": "0",
+        "dislikes": "0",
+        "content": "Wykonanie jak i estetyka super w tej cenie, prędkość zadowalająca.",
+        "cons": [],
+        "pros": [
+            "fajna hulajnoga nie ma co",
+            "jak działa jest super",
+            "jakość",
+            "jest łatwa w obsłudze",
+            "pod górkę jedzie wolniej choć daje radę",
+            "polecam",
+            "prezentuje się bardzo dobrze",
+            "przyciąga uwagę",
+            "stabilna konstrukcja",
+            "tempomat",
+            "wygląd",
+            "wygoda",
+            "zasięg"
+        ]
+    },
+    {
+        "opinion_id": "14771670",
+        "author": "b...j",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2021-07-27 22:19:40",
+        "purchase_date": "2021-07-09 19:56:05",
+        "likes": "0",
+        "dislikes": "0",
+        "content": "jak na pierwszy tydzień, wszystko ok, daje rade nawet przy 107kg",
+        "cons": [],
+        "pros": [
+            "jak działa jest super",
+            "wygląd"
+        ]
+    },
+    {
+        "opinion_id": "14664066",
+        "author": "b...8",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2021-06-30 12:21:21",
+        "purchase_date": "2021-06-28 13:15:19",
+        "likes": "0",
+        "dislikes": "0",
+        "content": "Super, wszystko zgodnie z opisem. Hulajnoga śmiga jak ta lala.",
+        "cons": [],
+        "pros": []
+    },
+    {
+        "opinion_id": "14717818",
+        "author": "j...w",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "opinion_date": "2021-07-14 07:55:12",
+        "purchase_date": "2021-07-03 09:13:24",
+        "likes": "0",
+        "dislikes": "0",
+        "content": "Hulajnoga spełnia wszystkie wymagania, syn bardzo zadowolony.",
+        "cons": [],
+        "pros": [
+            "jak działa jest super",
+            "przyciąga uwagę",
+            "wygląd"
+        ]
+    }
+]
